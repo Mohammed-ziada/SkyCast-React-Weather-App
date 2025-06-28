@@ -4,12 +4,6 @@ SkyCast is a stylish and responsive weather app built with React and CSS. It all
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](./public/screenshots/weather-preview.png)
-
----
-
 ## 🌟 Features
 
 - 🔍 Search by city name
@@ -41,19 +35,19 @@ SkyCast is a stylish and responsive weather app built with React and CSS. It all
    git clone https://github.com/yourusername/skycast-weather-app.git
    cd skycast-weather-app
    ```
-
 ## 📁 Folder Structure
 
+```bash
 src/
 ├── components/
-│ ├── Search/
-│ ├── Weather/
-│ └── NoResult/
+│   ├── Search/
+│   ├── Weather/
+│   └── NoResult/
 ├── assets/
-├── Constant.js # Weather condition codes
-├── App.jsx # Main app logic
+├── Constant.js       # Weather condition codes
+├── App.jsx           # Main app logic
 └── main.jsx
-
+```
 ---
 
 ## Notes
